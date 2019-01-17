@@ -1,0 +1,32 @@
+source ~/.profile
+
+
+workon cv
+
+
+
+import cv2
+
+
+/home/pi/desktop/GoPiGoLocal/faces.xml
+
+
+opencv_contrib-3.3.0/modules/face
+
+
+
+
+opencv_contrib-3.3.0/modules/face/data/cascades/haarcascade_mcs_eyepair_big.xml
+
+
+
+haarcascade_frontalface_default.xml                 £ idi face_detection lonidi
+
+
+
+opencv_contrib-3.3.0/modules/face/data/cascades/haarcascade_mcs_upperbody.xml
+
+
+
+
+opencv-3.3.0/data/haarcascades/haarcascade_frontalface_default.xml
